@@ -1,2 +1,2 @@
 prerequisiti: postman installato
-gestore tramite postma ne salvataggio su database locale 
+gestore tramite postman e salvataggio su database locale 
